@@ -1,2 +1,3 @@
 # Amazon-Basic-Site
-Non-Responsive Using Basic HTML,CSS
+Clone of Amazon Desktop site.
+Non-Responsive Using Basic HTML,CSS.
